@@ -1,0 +1,106 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Trabajo Final</title>
+    <link rel = "stylesheet"  type = "text/css"  href = "css/estilos.css" />
+    <link rel="stylesheet" href="https://fonts.googleapis.com/icon?family=Material+Icons">
+</head>
+<body>
+
+    <div class="encabezado">
+        <h1 class="center">Alberto Gallardo Madrigal</h1>
+        <h3 class="center">Marketing Manager</h3>
+    </div>
+
+    
+
+    <div class="informacion">
+
+      <h3>Educación</h3>
+        <h4>Marketing e Investigación de Mercados / Universidad de Valencia</h4>
+          <h5>Septiembre de 2011 - Junio de 2015</h5>
+            <hr>
+        
+        <h4>Grado superior en marketing y publicidad / IES Orriols, Valencia</h4>
+          <h5>Septiembre de 2009 - Junio de 2011</h5>
+          
+    </div>
+
+    <div class="informacion">
+      <h3>Experiencia</h3>
+       <h4>Responsable de Marketing / AMARIS, Barcelona</h4>
+         <h5>Mayo de 2017 - Febrero de 2020</h5>
+           <p> Gestión de la comunicación digital.</p>
+            <p>Planificación de la creación de contenido para 5 copywriters.</p>
+            <p>Creación de campañas en Google ads con un presupuesto de hasta 1000€.</p>
+            <p>Meetings semanales para planificar sprints y a la vez instruir al equipo.</p>
+          <hr>
+    
+
+       <h4>Marketing Assistant / UP2YOU CREATIVOS, Lleida</h4>
+          <h5>Enero de 2015 - Abril de 2017</h5>
+           <p>Gestión de redes sociales para 30 diferentes marcas.</p>
+           <p> Redacción de contenidos basado en palabras clave.</p>
+           <p>Traducción de landing pages en español, inglés y francés.</p>
+           <p>  Análisis de Google analytics para 20 sitios web.</p>
+        
+    </div>
+ 
+  
+    <div class="container">
+
+     <img src= "https://randomuser.me/api/portraits/men/22.jpg" alt="Foto de perfil">
+
+        <h5 class="center"> Perfil Profesional</h5>
+          <p class="center">Director de marketing con más de 5 años de experiencia desarrollando estrategias
+                            de contenido para España y América latina, planificando campañas de SEM para Google y 
+                            redes sociales, con una tasa de conversión media del 1,8%. Mi objetivo dentro de 
+                            Cumbres Travel es dar un paso más en mi trayectoria, desarrollando la estrategia de
+                            comunicación online de la línea de productos para países angloparlantes.
+            </p>
+          <br>
+
+
+     <div class="contacto">   
+        <h5 class="center">Contacto</h5>
+    
+        <i class="material-icons" style="font-size: 50px; color: black;">house</i>
+          <p> 11330 Jimena de la Frontera</p>
+          <br>
+
+      
+        <i class="material-icons" style="font-size: 50px; color: black;">phone</i>
+          <p>634 878 430</p>
+          <br>
+
+        <i class="material-icons" style="font-size: 50px; color: black;">email</i>
+          <p> albertogallardomadrigal@gmail.com </p>
+          <br>
+
+        </div>  
+
+        <h5 class="center">Idiomas</h5>
+          <ul>
+            <li>Inglés C1</li>
+            <li>Francés B2</li>
+          </ul>
+
+        <h5 class="center">Competencias</h5>
+          <ul>
+             <li>Search Engine Optimization (SEO).</li>
+             <li>Search Engine Marketing (SEM).</li>
+             <li>Coste por Clic (CPC).</li>
+             <li>Optimización de la Tasa de Conversión (CRO).</li>
+             <li>Liderazgo.</li>
+             <li>Trabajo en Equipo.</li>
+          </ul>
+        
+        
+
+    </div>
+  
+</body>
+</html>
